@@ -38,4 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
-SELECT YEAR(c14), COUNT(c14) as CANT where YEAR(c14) = 2018
+SELECT YEAR(c14), COUNT(c14) as CANT FROM tbl1 where YEAR(c14) = 2018
