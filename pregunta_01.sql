@@ -17,4 +17,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
-SELECT sum(c12) from tbl1;
+SELECT SUM(c12) from tbl1;
