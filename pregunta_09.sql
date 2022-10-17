@@ -38,4 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
-SELECT * FROM tbl2 where MIN(c21)
+SELECT * FROM tbl2 ORDER BY c21  LIMIT 1
